@@ -199,7 +199,7 @@ header ul li a{
 
 /* Reponsive */
 
-@media (max-width: 991px) {
+@media (max-width:991px) {
 
 	header {
 		padding:20px;
@@ -282,7 +282,7 @@ header ul li a{
 	}
 
 	.content .imgbox img {
-		max-width:300px;
+		max-width:200px;
 	}
 
 	.thumb li img {
