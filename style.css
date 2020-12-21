@@ -116,7 +116,7 @@ header ul li a{
 	justify-content: flex-end;
 	padding-right: 50px;
 	margin-top: 50px;
-	object-fit:cover;
+	
 }
 
 .content .imgbox img{
@@ -285,6 +285,7 @@ header ul li a{
 
 	.content .imgbox img {
 		max-width:200px;
+		object-fit:cover;
 	}
 
 	.thumb li img {
