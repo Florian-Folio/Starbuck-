@@ -281,11 +281,12 @@ header ul li a{
 	.content .imgbox {
 		max-width:100%;
 		justify-content:center;
+		object-fit:cover;
 	}
 
 	.content .imgbox img {
 		max-width:200px;
-		object-fit:cover;
+
 	}
 
 	.thumb li img {
