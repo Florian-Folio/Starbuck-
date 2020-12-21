@@ -116,11 +116,12 @@ header ul li a{
 	justify-content: flex-end;
 	padding-right: 50px;
 	margin-top: 50px;
+	object-fit:cover;
 }
 
 .content .imgbox img{
 	max-width: 340px;
-	object-fit:cover;
+
 }
 
 
