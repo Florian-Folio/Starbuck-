@@ -120,6 +120,7 @@ header ul li a{
 
 .content .imgbox img{
 	max-width: 340px;
+	object-fit:cover;
 }
 
 
