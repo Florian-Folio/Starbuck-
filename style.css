@@ -282,11 +282,12 @@ header ul li a{
 	.content .imgbox {
 		max-width:100%;
 		justify-content:center;
-		max-height:auto;
+		
 	}
 
 	.content .imgbox img {
 		max-width:200px;
+		max-height:400px;
 
 
 	}
@@ -294,6 +295,7 @@ header ul li a{
 	.thumb li img {
 
 		max-width: 40px;
+		
 	}
 
 	.circle{
