@@ -115,9 +115,7 @@ header ul li a{
 	display:flex;
 	justify-content: flex-end;
 	padding-right: 50px;
-	margin-top: 50px;
-	object-fit:cover;
-	
+	margin-top:150px;	
 }
 
 .content .imgbox img{
@@ -164,7 +162,7 @@ header ul li a{
 
 .sci{
 	position:absolute;
-	top: 50%;
+	top: 55%;
 	right:30px;
 	transform:translateY(-50%);
 	justify-content:center;
@@ -287,7 +285,7 @@ header ul li a{
 
 	.content .imgbox img {
 		max-width:200px;
-		max-height:400px;
+		height:200px;
 
 
 	}
@@ -299,7 +297,7 @@ header ul li a{
 	}
 
 	.circle{
-		clip-path: circle(400px at center bottom );
+		clip-path: circle(350px at center bottom );
 	}  
 
 	.sci{
